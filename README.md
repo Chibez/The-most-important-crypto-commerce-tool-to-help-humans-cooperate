@@ -1,5 +1,8 @@
 # The-most-important-crypto-commerce-tool-to-help-humans-cooperate
+
 The most important crypto-commerce tool to help humans cooperate
+
+
 
 
 
@@ -64,11 +67,17 @@ For these reasons, it's important to know the advantages and disadvantages of pa
 Benefits
 
 •	A payment gateway removes the anonymity of who you're dealing with while maintaining your customer's preference for it.
+
 •	You have someone to contact if there are payment issues.
+
 •	You can accept payments from anywhere in the world, in any cryptocurrency your provider will take.
+
 •	You receive the funds in the account with your provider, who transfers them to you.
+
 •	You don't have to worry about or attempt to understand cryptocurrency.
+
 •	Reduces volatility risk—the risk of losing value waiting for a transaction to be verified by the cryptocurrency's network—by paying you the market rate for the tokens at the time the transaction was conducted.
+
 
 Peer-to-peer (P2P) trading
 
