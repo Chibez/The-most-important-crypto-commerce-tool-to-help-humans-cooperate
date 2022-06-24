@@ -72,37 +72,21 @@ In P2P trading, you can select your preferred offer and trade directly with a co
 
 Some key benefits of P2P crypto trading
 
-Multiple payment methods
+Multiple payment methods: Because P2P crypto trading platforms simply connect buyers and sellers, they can provide a wide variety of different payment methods. This can include traditional payment methods, such as credit cards and PayPal, as well as digital currencies like Bitcoin, Ethereum (ETH), or Litecoin (LTC).
 
-Because P2P crypto trading platforms simply connect buyers and sellers, they can provide a wide variety of different payment methods. This can include traditional payment methods, such as credit cards and PayPal, as well as digital currencies like Bitcoin, Ethereum (ETH), or Litecoin (LTC).
+Secure transactions : P2P trading platforms often use security features such as encryption and two-factor authentication to protect trade. As a result, users can feel confident that their funds are safe when engaging in transactions on these networks.
 
-Secure transactions 
+Exposes you to a global marketplace where you can buy and sell to users globally: The global nature of P2P crypto trading allows users to work with anyone, regardless of location. This opens up a world of possibilities, as it allows you to trade in any currency or asset that you like.
 
-P2P trading platforms often use security features such as encryption and two-factor authentication to protect trade. As a result, users can feel confident that their funds are safe when engaging in transactions on these networks.
+Restrictions do not apply even in nations with strict laws on crypto trading: Because P2P crypto trading platforms don't have a central authority, they can't be shut down by governments with strict crypto laws. This includes regulations specific to certain countries that may restrict how much cryptocurrency you can buy or sell.
 
-Exposes you to a global marketplace where you can buy and sell to users globally
+Allows you to customize your offers with ad posting to attract sellers: P2P platforms often have marketplaces where users can advertise their offers to others. In addition, many of these networks allow you to customize your offer with different features, such as discounts and payment terms. These customization options aren't available on centralized exchanges and give you greater flexibility when trading cryptocurrencies.
 
-The global nature of P2P crypto trading allows users to work with anyone, regardless of location. This opens up a world of possibilities, as it allows you to trade in any currency or asset that you like.
+No trading fee or commissions: Because P2P trading platforms connect sellers directly with buyers, they don't charge any fees or commissions on transactions. This gives you the freedom to buy and sell currencies without worrying about extra costs impacting your bottom line.
 
-Restrictions do not apply even in nations with strict laws on crypto trading
+Great transaction speed: The transaction speed of P2P crypto trading platforms depends on the payment method used. For example, transactions made with credit cards are usually processed immediately. In contrast, those made via bank transfers may take a few days. Overall, though, the transaction speed is much faster than centralized exchanges.
 
-Because P2P crypto trading platforms don't have a central authority, they can't be shut down by governments with strict crypto laws. This includes regulations specific to certain countries that may restrict how much cryptocurrency you can buy or sell.
-
-Allows you to customize your offers with ad posting to attract sellers
-
-P2P platforms often have marketplaces where users can advertise their offers to others. In addition, many of these networks allow you to customize your offer with different features, such as discounts and payment terms. These customization options aren't available on centralized exchanges and give you greater flexibility when trading cryptocurrencies.
-
-No trading fee or commissions
-
-Because P2P trading platforms connect sellers directly with buyers, they don't charge any fees or commissions on transactions. This gives you the freedom to buy and sell currencies without worrying about extra costs impacting your bottom line.
-
-Great transaction speed
-
-The transaction speed of P2P crypto trading platforms depends on the payment method used. For example, transactions made with credit cards are usually processed immediately. In contrast, those made via bank transfers may take a few days. Overall, though, the transaction speed is much faster than centralized exchanges.
-
-Flexible trade orders
-
-P2P trading platforms allow you to set your own trade orders, giving you more control over your trades. You can set the price at which you're willing to buy or sell, as well as the amount of currency you want to trade. This flexibility is not available on centralized exchanges, where the order book is managed by the exchange, itself.
+Flexible trade orders: P2P trading platforms allow you to set your own trade orders, giving you more control over your trades. You can set the price at which you're willing to buy or sell, as well as the amount of currency you want to trade. This flexibility is not available on centralized exchanges, where the order book is managed by the exchange, itself.
 
 Key features of a P2P platform
 
