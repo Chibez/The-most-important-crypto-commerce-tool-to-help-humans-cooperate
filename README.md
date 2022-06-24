@@ -3,9 +3,9 @@ The most important crypto-commerce tool to help humans cooperate
 
 
 
-In my view I covered extensively the most important aspects and tools of the crypto word at large and how they can be put into proper use.
+In my view I covered extensively the most important aspects and tools of the crypto world at large and how they can be put into proper use.
 
-They are as follows;
+They are as follows:
 
 The importance of cyber security in digital currencies
 
