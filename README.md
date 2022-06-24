@@ -33,6 +33,7 @@ Keep your eyes open:   Cryptojacking takes place in the background and can often
 Consult the CCSS:   The Cryptocurrency Security Standard (CCSS) lays out an open source set of requirements to standardize the techniques and methodologies used by cryptocurrency systems across the globe. The process includes 10 security aspects – including wallet creation, key storage, key usage and data sanitization policy – and scores them across three levels. Security considered ‘level one’ proves that assets are protected with strong policies and procedures whilst those deemed ‘level three’ exceed security expectations and provide strictly enforced policies. Users should consult the CCSS to identify the best cryptocurrency systems to use and keep their currency safe.
 Stay ahead of the curve with CDR:     Businesses using cryptocurrency can adopt file sanitisation to ensure there is no chance of malicious code running in the background. Proactive cyber security solutions, such as content disarm and reconstruction (CDR), help organisations to be one step ahead of cyber criminals. CDR ensures that no malicious malware is present within a file by scanning it and re-building it to the known good manufacturer’s specification.
 
+
 Cryptocurrency Payment Gateway
 
 A cryptocurrency payment gateway is a payment processor for digital currencies, similar to the payment processors, gateways, and acquiring bank credit cards use. Cryptocurrency gateways enable you to accept digital payments and recieve fiat currency immediately in exchange. 
@@ -49,12 +50,18 @@ In terms of steps, the following workflow gets executed:
 The process is transparent to you because you don't have to worry about cryptocurrencies; only that your cryptocurrency service provider will place the appropriate funds in your account.
 Be sure to check your country's cryptocurrency regulations before setting up an account with a gateway. These gateways can operate from anywhere in the world, and many countries are developing new laws regarding digital currency use.
 
+Fees 
+
+The provider uses a cryptocurrency wallet to facilitate the transfers. If that currency is designed with a payment system, the provider will incur fees charged by the currency network's transaction validators. 
+Transaction validators verify blocks and transactions in the blockchain—in exchange for their energy use and computional power, they are paid in small increments in the cryptocurrency transaction they validated. 
+The providers pass on these fees to you, and charge their service fees so that they can continue operating and offering their services. 
+
 Payment Gateways 
 
 By nature, cryptocurrency is designed to be decentralized and anonymous. The system makes it easy for two parties to make an exchange. However, some merchants might not be comfortable accepting payment in digital currency; they might not understand how any of it works or be skeptical about the system. 
 For these reasons, it's important to know the advantages and disadvantages of payment gateways so that you can decide how you want to accept digital currency payments. 
 
-Benefits of payment gateways
+Benefits
 
 •	A payment gateway removes the anonymity of who you're dealing with while maintaining your customer's preference for it.
 •	You have someone to contact if there are payment issues.
